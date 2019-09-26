@@ -1,3 +1,12 @@
 # Description of your program (part 7)
+- Open the text file
+- Initialize a variable as 0
+- Iterate through each character
+- When a character is a space, increment the variable by 1
+- Return the value of the variable
+
 
 # Reflection on writing your program (part 8)
+Part 7 was difficult because I wasn't sure how technical to be. All the technical terms I used were in reference to Java which is the only language I have coded in. Recalling the correct technical terms was slow as well because it has been a few months since I last looked at code. 
+
+I am really excited for this course! Although it was a challenging series for me, I enjoyed the 14X series as someone who has never coded before. I look forward to working on projects and learning in a more collaborative CS environment. I just got accepted into HCDE so I am still open to different areas I might have more interest in, CS being one of them.  

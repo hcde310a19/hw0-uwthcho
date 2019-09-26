@@ -36,13 +36,14 @@ def hello():
 
 hello()
 print("... Let's say that again... \n")
-hello()
+
 
 # Step 2: Now try deleting the second hello(). Save the file.
 # Run the program again to see the results.
 
 # Step 3: Now insert "hello()" back into the editor buffer
 # below this line. Try using the auto-complete feature. After
+hello()
 # you type "hel", possible completions should appear.
 # Use the arrow keys or the mouse to select, and hit enter.
 
@@ -53,13 +54,13 @@ hello()
 # in the values for length, width, height, and your name.
 # Then save and run the program again.
 
-# length = 0
-# width = 0
-# height = 0
-#
-# me = "<your name here>"
-# print("Volume =", width * length * height)
-# print("My name is", me)
+length = 3
+width = 2
+height = 3
+
+me = "Trinity"
+print("Volume =", width * length * height)
+print("My name is", me)
 
 # Step 5: You can also run Python programs in PyCharm as well.
 # In PyCharm, click File and then New Project. Make sure the
